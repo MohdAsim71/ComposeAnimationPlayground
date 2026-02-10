@@ -35,33 +35,46 @@ All animations are **GIF-recorded directly from Compose** so you can preview the
 ### 🔹 Bounce Scale Animation
 A subtle bounce effect perfect for list items, buttons, and cards.
 
-![Bounce Scale Animation](gifs/bounce.gif)
+
+<p align="start">
+  <img src="./gifs/bounce.gif" height="380"/>
+</p>
 
 ---
 
 ### 🔹 Blur + Fade Transition
 Smooth enter/exit animation for screens and components.
 
-![Fade Slide Animation](gifs/blurfade.gif)
+<p align="start">
+  <img src="./gifs/blurfade.gif" height="380"/>
+</p>
 
 ---
 
 ### 🔹 Flip Transition
 Smooth enter/exit animation for screens and components.
 
-![Fade Slide Animation](gifs/flip.gif)
+
+<p align="start">
+  <img src="./gifs/flip.gif" height="380"/>
+</p>
+
 
 ---
 ### 🔹 Scale + Fade Transition
 Smooth enter/exit animation for screens and components.
 
-![Fade Slide Animation](gifs/scalefade.gif)
+<p align="start">
+  <img src="./gifs/scalefade.gif" height="380"/>
+</p>
 
 ---
 ### 🔹 Fade + Slide Transition
 Smooth enter/exit animation for screens and components.
 
-![Fade Slide Animation](gifs/slidefade.gif)
+<p align="start">
+  <img src="./gifs/slidefade.gif" height="380"/>
+</p>
 
 ---
 
@@ -74,7 +87,7 @@ Smooth enter/exit animation for screens and components.
 - **Kotlin**
 - **Jetpack Compose**
 - Compose Animation APIs
-  - `animate*AsState`
+  - `animateAsState`
   - `updateTransition`
   - `AnimatedVisibility`
   - `InfiniteTransition`
@@ -85,4 +98,4 @@ Smooth enter/exit animation for screens and components.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/MohdAsim71/ComposeAnimationPlayground.git
